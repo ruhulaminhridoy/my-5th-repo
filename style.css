@@ -4,9 +4,13 @@ h1{
 p{
     color: blue;
 }
-.hr{
-    color: azure;
+#hr{
+    color: rgb(219, 223, 17);
 }
-.hb{
+#hb{
     color: brown;
+}
+#jpg{
+    height: 75px;
+    width: 50px;
 }
